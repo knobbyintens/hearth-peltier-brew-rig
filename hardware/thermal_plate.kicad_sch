@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+  (uuid 8b1f2c30-7a51-4c9e-bd7b-8b1f2c307a51)
+  (paper "A3")
+  (title_block
+    (title "Hearth Peltier cold plate")
+    (date "2021-02-03")
+    (rev "B")
+    (company "Meridian Works")
+  )
+  (lib_symbols
+    (symbol "Device:Thermocouple" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "T" (id 0) (at 0 0 0))
+      (property "Value" "Thermocouple" (id 1) (at 0 2.54 0))
+    )
+  )
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

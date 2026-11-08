@@ -1,0 +1,11 @@
+mash:
+  target_c: 65
+  hold_minutes: 60
+  max_plate_delta_k: 32
+sparge:
+  target_c: 76
+  hold_minutes: 15
+  max_plate_delta_k: 28
+safety:
+  max_current_a: 18
+  watchdog_seconds: 30
